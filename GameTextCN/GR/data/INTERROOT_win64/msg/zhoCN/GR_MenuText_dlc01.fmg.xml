@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10410">幽影树庇佑</text>
+<text id="10411">灵灰庇佑</text>
+<text id="30205">透过幽影树获得的庇佑值。
+
+接受庇佑后，能强化自身的能力。
+有效范围仅限于幽影之地。</text>
+<text id="30206">透过灵灰获得的庇佑值。
+
+接受庇佑后，能强化受召唤灵魂与灵马的能力。
+有效范围仅限于幽影之地。</text>
+<text id="40382">键盘</text>
+<text id="40383">键盘与鼠标</text>
+<text id="40524">最近获得的道具</text>
+<text id="60180">格斗术</text>
+<text id="60181">调香瓶</text>
+<text id="60182">突刺盾</text>
+<text id="60183">投掷剑</text>
+<text id="60184">反手剑</text>
+<text id="60185">轻大剑</text>
+<text id="60186">大刀</text>
+<text id="60187">兽爪</text>
+<text id="63051">能在格斗术类武器使用</text>
+<text id="63052">能在调香瓶类武器使用</text>
+<text id="63053">能在突刺盾类武器使用</text>
+<text id="63054">能在投掷剑类武器使用</text>
+<text id="63055">能在反手剑类武器使用</text>
+<text id="63056">能在轻大剑类武器使用</text>
+<text id="63057">能在大刀类武器使用</text>
+<text id="63058">能在兽爪类武器使用</text>
+<text id="63059">能在可突刺的武器使用
+（不含钩爪、反手剑类武器）</text>
+<text id="63060">能在大型、特大型的剑类武器使用</text>
+<text id="63061">能在剑、矛类武器使用
+（不含小型武器、
+　双头剑、反手剑类武器）</text>
+<text id="80020">大龟裂壶</text>
+<text id="110600">显示配置</text>
+<text id="110601">初次获得道具的标示</text>
+<text id="110602">%null%</text>
+<text id="110603">最近获得道具的标签</text>
+<text id="110700">声音配置</text>
+<text id="111024">地图选单的游标移动方式</text>
+<text id="111025">切换锁定目标的阈值</text>
+<text id="225001">贝勒的龙飨</text>
+<text id="225002">%null%</text>
+<text id="225003">%null%</text>
+<text id="225004">%null%</text>
+<text id="225005">%null%</text>
+<text id="225006">%null%</text>
+<text id="225007">%null%</text>
+<text id="225008">%null%</text>
+<text id="225009">%null%</text>
+<text id="225010">%null%</text>
+<text id="225011">供品</text>
+<text id="241337">幽影亚坛</text>
+<text id="241338">青蓝海岸</text>
+<text id="241339">尖刺山的山脚</text>
+<text id="241340">尖刺山</text>
+<text id="241341">卡罗隐藏墓地</text>
+<text id="241342">劳弗古遗迹</text>
+<text id="241343">望影露台</text>
+<text id="241344">谷底森林</text>
+<text id="241345">“塔之镇”贝瑞特</text>
+<text id="241346">艾尼尔·伊利姆</text>
+<text id="241347">幽影城</text>
+<text id="241348">幽影城（教区）</text>
+<text id="241349">物种保藏库</text>
+<text id="241350">石棺大洞</text>
+<text id="241351">米德拉府邸</text>
+<text id="241352">恩希斯城</text>
+<text id="241353">墓地平原</text>
+<text id="241354">劳弗下方</text>
+<text id="241417">墓地平原</text>
+<text id="241418">幽影亚坛</text>
+<text id="241419">塔之地</text>
+<text id="241420">幽影城</text>
+<text id="241500">地图功能选单</text>
+<text id="241501">多人联机游玩状态</text>
+<text id="241502">记号聚集处一览</text>
+<text id="241503">控制说明</text>
+<text id="241504">选单说明</text>
+<text id="241600">记号聚集处一览</text>
+<text id="280060">选单</text>
+<text id="280600">地图</text>
+<text id="331340">HEART STOLEN</text>
+</entries>
+</fmg>

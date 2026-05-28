@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="280004">部分配置与选单的操作配置重复，请再次确认。</text>
+<text id="401130">找不到必要的附加内容：
+
+&lt;?requiredDlcList?&gt;
+
+安装完上述附加内容后，才能读取此角色档案。</text>
+<text id="401131">Shadow of the Erdtree</text>
+<text id="401406">无法联机至Steamworks：&lt;?errcodeSteam?&gt;
+将返回标题画面。</text>
+</entries>
+</fmg>

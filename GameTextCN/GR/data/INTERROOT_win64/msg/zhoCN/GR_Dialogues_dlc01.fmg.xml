@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="111108">目前的帧率上限为无效配置，
+将进行自动调整。</text>
+<text id="225001">把贝勒的心脏当作供品，
+将&lt;?itemName?&gt;化为己有。</text>
+<text id="236031">制作的数量超过持有的大龟裂壶数量，
+无法制作道具。</text>
+<text id="236061">您未持有大龟裂壶，
+无法制作道具。</text>
+<text id="241200">获得地图碎片：
+墓地平原</text>
+<text id="241201">获得地图碎片：
+幽影亚坛</text>
+<text id="241202">获得地图碎片：
+南方海岸</text>
+<text id="241203">获得地图碎片：
+劳弗古遗迹</text>
+<text id="241204">获得地图碎片：
+谷底</text>
+</entries>
+</fmg>

@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2601425">已接受其他世界的召唤。
+请打倒“金针骑士”蕾妲与其同伴。</text>
+<text id="2601426">已接受其他世界的召唤。
+请打倒 老兵安帕赫。</text>
+<text id="2601427">已接受其他世界的召唤。
+请打倒“金针骑士”蕾妲。</text>
+<text id="2601428">已接受其他世界的召唤。
+请打倒 角人。</text>
+<text id="2601429">已接受其他世界的召唤。
+请打倒“金针骑士”蕾妲。</text>
+<text id="2611425">已打倒“金针骑士”蕾妲与其同伴，
+将返回原本的世界。</text>
+<text id="2611426">已打倒 老兵安帕赫，
+将返回原本的世界。</text>
+<text id="2611427">已打倒“金针骑士”蕾妲，
+将返回原本的世界。</text>
+<text id="2611428">已打倒 角人，
+将返回原本的世界。</text>
+<text id="2611429">已打倒“金针骑士”蕾妲，
+将返回原本的世界。</text>
+<text id="2621425">您已死亡，将返回原本的世界。</text>
+<text id="2621426">您已死亡，将返回原本的世界。</text>
+<text id="2621427">您已死亡，将返回原本的世界。</text>
+<text id="2621428">您已死亡，将返回原本的世界。</text>
+<text id="2621429">您已死亡，将返回原本的世界。</text>
+<text id="2622425">勾指主人已死亡，将返回勾指主人的世界。</text>
+<text id="2631425">将返回原本的世界。</text>
+<text id="2631426">将返回原本的世界。</text>
+<text id="2631427">将返回原本的世界。</text>
+<text id="2631428">将返回原本的世界。</text>
+<text id="2631429">将返回原本的世界。</text>
+<text id="2632425">勾指主人已返回原本的世界，
+将返回勾指主人的世界。</text>
+<text id="2640425">已将勾指&lt;?leaveName?&gt;遣返至原本的世界。</text>
+<text id="2641425">受勾指主人遣返，将返回原本的世界。</text>
+<text id="2642425">勾指&lt;?leaveName?&gt;已被遣返至原本的世界。</text>
+<text id="2691425">您已死亡，将返回原本的世界。</text>
+<text id="2692425">勾指&lt;?deadName?&gt;已死亡。</text>
+<text id="2693425">将返回原本的世界。</text>
+<text id="2694425">勾指&lt;?leaveName?&gt;已返回原本的世界。</text>
+<text id="4080100">正在召唤协助者。</text>
+<text id="4080101">%null%</text>
+<text id="4080102">%null%</text>
+<text id="4080103">%null%</text>
+<text id="4080104">%null%</text>
+<text id="4080105">%null%</text>
+<text id="4080106">%null%</text>
+<text id="4080107">%null%</text>
+<text id="4080108">%null%</text>
+<text id="4080109">%null%</text>
+<text id="4080110">正在召唤其他协助者。</text>
+<text id="4080800">已召唤协助者“龙战士”埃贡。</text>
+<text id="4080801">已召唤协助者“龙战士”埃贡。</text>
+<text id="4080802">“龙战士”埃贡 已死亡。</text>
+<text id="4080803">%null%</text>
+<text id="4080804">%null%</text>
+<text id="4080805">%null%</text>
+<text id="4080806">%null%</text>
+<text id="4080807">%null%</text>
+<text id="4080808">%null%</text>
+<text id="4080809">%null%</text>
+<text id="4080810">已召唤协助者 休里耶。</text>
+<text id="4080811">已召唤协助者 休里耶。</text>
+<text id="4080812">休里耶 已死亡。</text>
+<text id="4080813">%null%</text>
+<text id="4080814">%null%</text>
+<text id="4080815">%null%</text>
+<text id="4080816">%null%</text>
+<text id="4080817">%null%</text>
+<text id="4080818">%null%</text>
+<text id="4080819">%null%</text>
+<text id="4080820">被 休里耶 入侵了！</text>
+<text id="4080821">%null%</text>
+<text id="4080822">休里耶 已死亡。</text>
+<text id="4080823">%null%</text>
+<text id="4080824">%null%</text>
+<text id="4080825">%null%</text>
+<text id="4080826">%null%</text>
+<text id="4080827">%null%</text>
+<text id="4080828">%null%</text>
+<text id="4080829">%null%</text>
+<text id="4080830">被“黑夜剑士”约兰 入侵了！</text>
+<text id="4080831">%null%</text>
+<text id="4080832">“黑夜剑士”约兰 已死亡。</text>
+<text id="4080833">%null%</text>
+<text id="4080834">%null%</text>
+<text id="4080835">%null%</text>
+<text id="4080836">%null%</text>
+<text id="4080837">%null%</text>
+<text id="4080838">%null%</text>
+<text id="4080839">%null%</text>
+<text id="4080840">已召唤协助者“纯血骑士”安帕赫。</text>
+<text id="4080841">已召唤协助者“纯血骑士”安帕赫。</text>
+<text id="4080842">“纯血骑士”安帕赫 已死亡。</text>
+<text id="4080843">将于稍后召唤协助者“纯血骑士”安帕赫。</text>
+<text id="4080844">%null%</text>
+<text id="4080845">%null%</text>
+<text id="4080846">%null%</text>
+<text id="4080847">%null%</text>
+<text id="4080848">%null%</text>
+<text id="4080849">%null%</text>
+<text id="4080850">已召唤协助者 休里耶。</text>
+<text id="4080851">已召唤协助者 休里耶。</text>
+<text id="4080852">休里耶 已死亡。</text>
+<text id="4080853">将于稍后召唤协助者 休里耶。</text>
+<text id="4080854">%null%</text>
+<text id="4080855">%null%</text>
+<text id="4080856">%null%</text>
+<text id="4080857">%null%</text>
+<text id="4080858">%null%</text>
+<text id="4080859">%null%</text>
+<text id="4080860">已召唤协助者“鲜血贵族”奈坦。</text>
+<text id="4080861">已召唤协助者“鲜血贵族”奈坦。</text>
+<text id="4080862">“鲜血贵族”奈坦 已死亡。</text>
+<text id="4080863">将于稍后召唤协助者“鲜血贵族”奈坦。</text>
+<text id="4080864">%null%</text>
+<text id="4080865">%null%</text>
+<text id="4080866">%null%</text>
+<text id="4080867">%null%</text>
+<text id="4080868">%null%</text>
+<text id="4080869">%null%</text>
+<text id="4080870">已召唤协助者 角人。</text>
+<text id="4080871">已召唤协助者 角人。</text>
+<text id="4080872">角人 已死亡。</text>
+<text id="4080873">%null%</text>
+<text id="4080874">%null%</text>
+<text id="4080875">%null%</text>
+<text id="4080876">%null%</text>
+<text id="4080877">%null%</text>
+<text id="4080878">%null%</text>
+<text id="4080879">%null%</text>
+<text id="4080880">已召唤协助者“黑夜剑士”约兰。</text>
+<text id="4080881">已召唤协助者“黑夜剑士”约兰。</text>
+<text id="4080882">“黑夜剑士”约兰 已死亡。</text>
+<text id="4080883">%null%</text>
+<text id="4080884">%null%</text>
+<text id="4080885">%null%</text>
+<text id="4080886">%null%</text>
+<text id="4080887">%null%</text>
+<text id="4080888">%null%</text>
+<text id="4080889">%null%</text>
+<text id="4080890">敌对者 角人 被召唤了！</text>
+<text id="4080891">%null%</text>
+<text id="4080892">角人 已死亡。</text>
+<text id="4080893">%null%</text>
+<text id="4080894">%null%</text>
+<text id="4080895">%null%</text>
+<text id="4080896">%null%</text>
+<text id="4080897">%null%</text>
+<text id="4080898">%null%</text>
+<text id="4080899">%null%</text>
+<text id="4080900">敌对者 穆尔 被召唤了！</text>
+<text id="4080901">%null%</text>
+<text id="4080902">穆尔 已死亡。</text>
+<text id="4080903">%null%</text>
+<text id="4080904">%null%</text>
+<text id="4080905">%null%</text>
+<text id="4080906">%null%</text>
+<text id="4080907">%null%</text>
+<text id="4080908">%null%</text>
+<text id="4080909">%null%</text>
+<text id="4080910">敌对者“红狮子”弗蕾亚 被召唤了！</text>
+<text id="4080911">%null%</text>
+<text id="4080912">“红狮子”弗蕾亚 已死亡。</text>
+<text id="4080913">%null%</text>
+<text id="4080914">%null%</text>
+<text id="4080915">%null%</text>
+<text id="4080916">%null%</text>
+<text id="4080917">%null%</text>
+<text id="4080918">%null%</text>
+<text id="4080919">%null%</text>
+<text id="4080920">敌对者“金针骑士”蕾妲 被召唤了！</text>
+<text id="4080921">%null%</text>
+<text id="4080922">“金针骑士”蕾妲 已死亡。</text>
+<text id="4080923">%null%</text>
+<text id="4080924">%null%</text>
+<text id="4080925">%null%</text>
+<text id="4080926">%null%</text>
+<text id="4080927">%null%</text>
+<text id="4080928">%null%</text>
+<text id="4080929">%null%</text>
+<text id="4080930">敌对者“落叶”丹恩 被召唤了！</text>
+<text id="4080931">%null%</text>
+<text id="4080932">“落叶”丹恩 已死亡。</text>
+</entries>
+</fmg>

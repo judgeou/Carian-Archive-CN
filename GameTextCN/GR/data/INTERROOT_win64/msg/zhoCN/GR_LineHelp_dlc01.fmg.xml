@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="110601">配置初次获得道具时，是否以图案标示</text>
+<text id="110602">%null%</text>
+<text id="110603">在置物包选单，是否显示“最近获得的道具”标签</text>
+<text id="111024">选择在地图选单，操作游标移动的装置</text>
+<text id="111025">配置以鼠标切换锁定目标时的临界值</text>
+<text id="225001">请选择贝勒的力量，将其力量化为己有</text>
+<text id="241501">配置是否显示多人联机游玩的状态</text>
+<text id="241502">显示记号聚集处一览，个别配置启用／不启用</text>
+<text id="241503">显示控制说明</text>
+<text id="241504">显示地图选单的说明</text>
+<text id="241600">请选择记号聚集处，配置启用／不启用</text>
+<text id="280600">显示地图选单</text>
+</entries>
+</fmg>

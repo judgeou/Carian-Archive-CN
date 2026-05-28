@@ -47,7 +47,11 @@ def parseNPCDialogue(path, npcNames = {},output = print):
 def loadTextFile(path):
     tree = ET.parse(path)
     root = tree.getroot()
-    textElements = root.getchildren()[3].getchildren()
+    entries = root.find("entries")
+    if entries is None:
+        children = list(root)
+        entries = children[3] if len(children) > 3 else root
+    textElements = list(entries)
     elements = {}
     for element in textElements:
         identifier = int(element.items()[0][1])
@@ -119,12 +123,28 @@ def loadFromChunk(chunk,lang = "engUS"):
     text = "\n".join(master)
     return text
 
-chunk = Path(r".\GameText")
-text = loadFromChunk(chunk)
-with open("Master.html","w",encoding = "utf8") as outf:
-    outf.write(markdown.markdown(text))
-    
-chunk = Path(r".\GameTextJP")
-text = loadFromChunk(chunk,"jpnJP")
-with open("MasterJP.html","w",encoding = "utf8") as outf:
-    outf.write(markdown.markdown(text))
+def resolveLangDir(chunk, default_lang):
+    msg_root = chunk / r"GR\data\INTERROOT_win64\msg"
+    if not msg_root.is_dir():
+        return default_lang
+    langs = [p.name for p in msg_root.iterdir() if p.is_dir()]
+    if default_lang in langs:
+        return default_lang
+    if langs:
+        return langs[0]
+    return default_lang
+
+def buildMaster(chunk, lang, out_path):
+    lang = resolveLangDir(chunk, lang)
+    text = loadFromChunk(chunk, lang)
+    with open(out_path, "w", encoding="utf8") as outf:
+        outf.write(markdown.markdown(text))
+    return lang
+
+buildMaster(Path(r".\GameText"), "engUS", "Master.html")
+buildMaster(Path(r".\GameTextJP"), "jpnJP", "MasterJP.html")
+
+cn_chunk = Path(r".\GameTextCN")
+if cn_chunk.is_dir():
+    lang = buildMaster(cn_chunk, "zhoCN", "MasterCN.html")
+    print("MasterCN.html written (lang: %s)" % lang)
